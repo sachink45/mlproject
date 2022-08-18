@@ -38,7 +38,7 @@ git commit -m "add comment"
 To setup CICD pipeline we need 3 info :
 
 1. Heroku email  - sachikapase6125@gmail.com
-2. Heroku API_Key  - 0eb617c3-e12c-4b65-9803-f1459b5cb15d
+2. Heroku API_Key  - 
 3. Heroku App name  -  hello-world-api-key
 
 Build docker image :
